@@ -1,4 +1,4 @@
-const AnimeRoutes = require('Express').Router();
+const AnimeRoutes = require('express').Router();
 const {
     getAll,
     getByID,
