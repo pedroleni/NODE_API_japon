@@ -1,4 +1,4 @@
-const MangaRoutes = require('Express').Router();
+const MangaRoutes = require('express').Router();
 const {
     getAll,
     getByID,
